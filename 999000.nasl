@@ -8,7 +8,7 @@ include("compat.inc");
 
 if (description)
 {
-  script_id(999001);
+  script_id(999000);
   script_version("0.0.5");
   #script_cvs_date("Date: 2018/07/10 12:08:45");
 
